@@ -29,6 +29,7 @@ export enum ChainId {
     Goerli = 5,
     Optimism = 10,
     BSC = 56,
+    Scroll = 534352,
     Polygon = 137,
     Fantom = 250,
     Ganache = 1337,
